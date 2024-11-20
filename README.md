@@ -25,7 +25,7 @@ Bu projeyi yerel olarak kurmak için şu adımları izleyin:
 
 1. Depoyu klonlayın:
     ```bash
-    git clone https://github.com/cagdasunsal/kuruyemis
+    git clone https://github.com/mervesenli/kuruyemis
     ```
 
 2. Proje dizinine gidin:
